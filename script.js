@@ -130,6 +130,7 @@ function showMessage() {
   document.body.style.backgroundColor = "black";
   app.innerHTML = `
     <h1 style="color: white;">"Thank you for being the most amazing mom! 💖"</h1>
+    <h3 style="color: white;">"The savage in me comes from you, you are my strength to go on and achieve my goals. At this age this is what I can do right now"</h3>
   `;
 }
 
